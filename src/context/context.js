@@ -1,0 +1,1 @@
+const contexApp = React.createContext({});
